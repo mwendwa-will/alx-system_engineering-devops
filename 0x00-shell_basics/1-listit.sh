@@ -1,2 +1,2 @@
  #! /bin/sh
-  readlink -f
+  readlink -f 1-listit.sh 
